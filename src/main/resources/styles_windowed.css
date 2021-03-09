@@ -1,0 +1,20 @@
+.button {
+	-fx-background-color: #99ccff;
+}
+
+.root {
+	-fx-background-color: black;
+}
+
+AnchorPane {
+	-fx-background-image: url("SurePulse_BG_test_1280.png");
+}
+
+.label {
+	-fx-text-fill: white;
+}
+
+.button {
+	-fx-background-color: black;
+	-fx-text-fill: white;
+}

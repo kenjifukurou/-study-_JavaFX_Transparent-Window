@@ -1,0 +1,25 @@
+AnchorPane {
+	-fx-background-color: rgba(0,0,0,0.3);
+	/*-fx-background-color: blue;*/
+	-fx-background-radius: 20;
+	/*-fx-background-insets: 20;*/
+	/*-fx-fill: yellow;*/
+	-fx-background-image: url("SurePulse_BG_test_1280.png");
+	/*-fx-background-size: 300 275;*/
+
+	/*-fx-border-color: red;*/
+	-fx-border-insets: 20;
+	-fx-border-radius: 20;
+	-fx-border-width: 5;
+
+	/*-fx-border-image-source: url("bg-sky-mirror.jpg");*/
+	/*-fx-border-image-width: 200;*/
+	/*-fx-border-image-repeat: repeat;*/
+}
+
+.text {
+	-fx-font-size: 12;
+	/*-fx-underline: true;*/
+	-fx-text-origin: top;
+	-fx-text-alignment: center;
+}
